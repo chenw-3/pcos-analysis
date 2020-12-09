@@ -1,0 +1,2 @@
+# pcos-analysis
+Polycystic Ovary Syndrome (PCOS) is a disease that affects the female reproductive, endocrine, and possibly immune systems. The exact etiology of the disease is still unkown but PCOS can lead to diabetes, infertility and even cancer. The most common symptom is having multiple fluid filled sacs on your ovaries. This project uses a Kaggle dataset of Indian women with and without PCOS to identify the prominence of other indicators of the disease. 
