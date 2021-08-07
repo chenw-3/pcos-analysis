@@ -17,7 +17,7 @@ def main():
     st.header('This tool is meant to predict your likelihood of having Polycystic Ovarian Syndrome (PCOS)')
 
     #Subheader
-    st.markdown('PCOS is a condition that affects 1 in 10 women. It often goes undiagnosed with symptoms like irregular periods, excessive hair growth, weight gain, anxiety and depression, PCOS can easily be overlooked. This tool is meant to assess your symptoms and tell you if PCOS could be the cause of your symptoms.')
+    st.markdown('PCOS is a condition that affects 1 in 10 women. It often goes undiagnosed with symptoms like irregular periods, excessive hair growth, weight gain, anxiety and depression. This tool is meant to assess your symptoms and tell you if PCOS could be the cause of them.')
 
     #sidebar
     #st.sidebar.slider('Slider')
